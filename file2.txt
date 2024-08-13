@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 file two here
 30
+=======
+file two here
+>>>>>>> c0bacc0 (b2c1)
 =======
 file two here
 >>>>>>> c0bacc0 (b2c1)
