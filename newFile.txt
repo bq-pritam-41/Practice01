@@ -1,2 +1,6 @@
 hello 
+<<<<<<< HEAD
 hello2
+=======
+hello4
+>>>>>>> 0be84db (ho)
