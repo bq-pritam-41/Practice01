@@ -1,6 +1,2 @@
 two
-<<<<<<< HEAD
-three
-four
-=======
->>>>>>> parent of baecbc7 (hlp)
+hlpss
